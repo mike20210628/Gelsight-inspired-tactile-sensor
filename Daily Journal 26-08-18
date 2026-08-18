@@ -1,0 +1,22 @@
+# 2026-08-18
+
+## What I did
+- Created the GitHub repository.
+- Reviewed the basic operating principle of GelSight.
+- Prepared the first platinum-cure silicone batch.
+- Measured the mold dimensions.
+- Planned 3 mm and 4 mm elastomer samples.
+
+## Design Decisions
+I decided to begin with a simple optical tactile sensor before adding thermal sensing. The thermal sensor array will be treated as a future extension so that it does not delay the first working prototype.
+
+## Problems / Questions
+- The silicone label only specified an A:B ratio of 1:1 and did not clearly state whether the ratio was by mass or volume.
+- Air bubbles may become an issue during mixing.
+- The final elastomer thickness still needs to be optimized.
+
+## Next Steps
+- Inspect the cured silicone samples.
+- Measure their actual thickness.
+- Compare flexibility and transparency.
+- Begin planning the camera and illumination structure.
